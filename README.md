@@ -22,4 +22,4 @@
 - 📫 How to reach me:
   - [🐦 @hkupty on twitter](https://twitter.com/hkupty)
   - [🏢 hkupty on linkedin](https://www.linkedin.com/in/hkupty/)
-  - 📧 hkupty <at> gmail <dot> com
+  - 📧 hkupty &lt;at&gt; gmail &lt;dot&gt; com
