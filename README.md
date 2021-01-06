@@ -1,5 +1,8 @@
 ### It's-a me, Henry!
 
+Consider [sponsoring me](https://github.com/sponsors/hkupty) so I can devote some time
+to improve my open source projects.
+
 - 💬 About me:
   - I'm a Brazilian software egineer living in Stockholm;
   - I'm really passionate about functional programming and Clojure;
