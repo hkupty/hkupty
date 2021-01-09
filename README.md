@@ -3,6 +3,11 @@
 Consider [sponsoring me](https://github.com/sponsors/hkupty) so I can devote some time
 to improve my open source projects.
 
+Instead, you can tip me a coffee or a beer if you want:
+
+- BTC `3PWKMW7tKKyj9s6Lt3PMCHNkGPQrgd5nWF`
+- ETH `0x390aE193A15E79a19BcD4DEcefA8Dc25Cc684c86`
+
 - 💬 About me:
   - I'm a Brazilian software egineer living in Stockholm;
   - I'm really passionate about functional programming and Clojure;
