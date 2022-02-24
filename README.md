@@ -31,3 +31,6 @@ Instead, you can tip me a coffee or a beer if you want:
   - [🐦 @hkupty on twitter](https://twitter.com/hkupty)
   - [🏢 hkupty on linkedin](https://www.linkedin.com/in/hkupty/)
   - 📧 hkupty &lt;at&gt; gmail.com
+
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hkupty&count_private=true&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
