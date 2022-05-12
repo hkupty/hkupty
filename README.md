@@ -14,11 +14,11 @@ Instead, you can tip me a coffee or a beer if you want:
   - I also enjoy a lot the financial problem-space;
 
 - 🔭 I’m currently working on:
-  - Developing awesome stuff at [tink](https://tink.com)
+  - Backend developer @ [znipe](https://znipe.se)
   - Improving user experience of my [neovim](https://github.com/neovim/neovim) plugins:
+    - [runes.nvim](https://github.com/hkupty/runes.nvim), for testing lua plugins inside neovim;
     - [iron.nvim](https://github.com/hkupty/iron.nvim), for interactive repls on `term` buffers;
     - [impromptu.nvim](https://github.com/hkupty/impromptu.nvim) for dynamic menus and UIs;
-    - [cartographer.nvim](https://github.com/hkupty/cartographer.nvim) provides navigation using impromptu.nvim;
     - [acid.nvim](https://github.com/clojure-vim/acid.nvim) gives async clojure support;
     - [jazz.nvim](https://github.com/clojure-vim/jazz.nvim) binds acid with impromptu for tasks that require user interaction;
   - Experimenting some ideas on my clojure projects:
