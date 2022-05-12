@@ -14,7 +14,7 @@ Instead, you can tip me a coffee or a beer if you want:
   - I also enjoy a lot the financial problem-space;
 
 - 🔭 I’m currently working on:
-  - Backend developer @ [znipe](https://znipe.se)
+  - Backend developer @ [znipe](https://beta.znipe.tv/)
   - Improving user experience of my [neovim](https://github.com/neovim/neovim) plugins:
     - [runes.nvim](https://github.com/hkupty/runes.nvim), for testing lua plugins inside neovim;
     - [iron.nvim](https://github.com/hkupty/iron.nvim), for interactive repls on `term` buffers;
