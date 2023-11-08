@@ -15,17 +15,8 @@ Instead, you can tip me a coffee or a beer if you want:
 
 - 🔭 I’m currently working on:
   - Backend developer @ [znipe](https://beta.znipe.tv/)
-  - Improving user experience of my [neovim](https://github.com/neovim/neovim) plugins:
-    - [runes.nvim](https://github.com/hkupty/runes.nvim), for testing lua plugins inside neovim;
-    - [iron.nvim](https://github.com/hkupty/iron.nvim), for interactive repls on `term` buffers;
-    - [impromptu.nvim](https://github.com/hkupty/impromptu.nvim) for dynamic menus and UIs;
-    - [acid.nvim](https://github.com/clojure-vim/acid.nvim) gives async clojure support;
-    - [jazz.nvim](https://github.com/clojure-vim/jazz.nvim) binds acid with impromptu for tasks that require user interaction;
-  - Experimenting some ideas on my clojure projects:
-    - [bl.g](https://github.com/hkupty/bl.g) is a small blog platform;
-    - [defteron](https://github.com/hkupty/defteron) and [defteron.builder](https://github.com/hkupty/defteron.builder) are attempts at making protobuf simpler in clojure;
-    - [debris](https://github.com/hkupty/debris) is a deterministic serialization protocol;
-    - [bordet](https://github.com/hkupty/bordet) is a dashboard for reading notifications;
+  - Delivering [Penna](https://hkupty.github.io/penna/)
+    - [source](https://github.com/hkupty/penna) 
 
 - 📫 How to reach me:
   - [🐦 @hkupty on twitter](https://twitter.com/hkupty)
