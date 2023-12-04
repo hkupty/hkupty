@@ -9,7 +9,7 @@ Instead, you can tip me a coffee or a beer if you want:
 - ETH `0x390aE193A15E79a19BcD4DEcefA8Dc25Cc684c86`
 
 - 💬 About me:
-  - I'm a Brazilian software egineer living in Stockholm;
+  - I'm a Brazilian software engineer living in Stockholm;
   - I'm really passionate about functional programming and Clojure;
   - I also enjoy a lot the financial problem-space;
 
